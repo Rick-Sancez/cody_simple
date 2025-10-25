@@ -30,5 +30,6 @@ A web-based simple bank calculator that helps with basic banking operations.
 Simply clone this repository and open `index.html` in your web browser:
 
 ```bash
-git clone https://github.com/your-username/simple-bank-calculator.git
+git clone https://github.com/Rick-Sanhez/cody_simple.git
+
 cd simple-bank-calculator
